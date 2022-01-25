@@ -1,5 +1,10 @@
 ### Hey, I'm Sunny! 👋
 
+- 🌱 I’m currently learning  Java.
+- speech_balloon Ping me about anything. Always happy to help! hand
+- - 😄 Pronouns: He/Him...
+
+
 <!--
 **sunnykumar2/sunnykumar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
