@@ -6,6 +6,7 @@
 - 📫 How to reach me:https://www.linkedin.com/in/sunny-kumar-502a72175/
 - 😄 Pronouns: He/Him...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **sunnykumar2/sunnykumar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
