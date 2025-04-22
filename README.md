@@ -9,8 +9,7 @@
 
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnykumar2&show_icons=true&theme=radical)
 
-![Sunny's GitHub test1 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar2&layout=compact&theme=radical)
-![Sunny's GitHub test1 stats](https://github-readme-stats.vercel.app/api?username=sunnykumar2&show_icons=true&theme=radical&count_private=true)
+![Sunny's GitHub langauge stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar2&layout=compact&theme=radical&count_private=true)
 
 
 
